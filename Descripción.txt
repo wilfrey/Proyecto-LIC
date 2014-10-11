@@ -1,0 +1,4 @@
+La página web fue creada tomando encuenta las diferentes páginas web sobre restaurantes. En el cual seleccionamos 2 para crear nuestra página combinado el fomato y el estilo para crear nuestra página sobre "El restaurante Bridge".
+
+Formato: http://www.css3maker.com/css-3-rgba.html
+Estilo: http://es.wix.com/website-template/view/html/736?originUrl=http%3A%2F%2Fes.wix.com%2Fwebsite%2Ftemplates%2Fhtml%2Frestaurant-hospitality%2Fcafe-restaurant%2F1&bookName=create-master-new&galleryDocIndex=2&category=restaurant-hospitality
